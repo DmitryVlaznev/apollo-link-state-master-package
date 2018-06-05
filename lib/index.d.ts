@@ -1,3 +1,4 @@
+/// <reference types="zen-observable" />
 import { ApolloLink, Observable, Operation, NextLink, FetchResult } from 'apollo-link';
 import { ApolloCache } from 'apollo-cache';
 export declare type ClientStateConfig = {
